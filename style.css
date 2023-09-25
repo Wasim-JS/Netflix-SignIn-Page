@@ -43,6 +43,7 @@ form input {
     border-radius: 5px;
     outline: none;
     padding-left: 15px;
+    color: white;
 }
 
 form input::placeholder {
